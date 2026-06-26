@@ -6,4 +6,4 @@
  - 打开 Shadowrocket
  - 进入“配置”页面
  - 点击右上角加号
- - 在弹出菜单中粘贴网址`https://github.com/BluewhaleYF/sf-rule/blob/main/sf-rule.conf`
+ - 在弹出菜单中粘贴网址`https://raw.githubusercontent.com/BluewhaleYF/sf-rule/refs/heads/main/sf-rule.conf`
